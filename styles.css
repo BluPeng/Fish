@@ -1,0 +1,14 @@
+h1 {
+  font-size:70px;
+  color:red;
+  text-align: center;
+  background-color: lightblue;
+}
+p {
+  font-size:40px;
+  color:darkblue;
+}
+body{
+background-color:dodgerblue;
+}
+
